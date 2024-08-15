@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Banner Image](https://imgur.com/a/34dMCMp.png)
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Mumbai, India who loves to create for the web 🌐.</h3>
+![Banner Image](https://i.imgur.com/use7PYC.png)
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a cyber security enthusiast & full stack developer 👨🏻‍💻 from Singapore who loves to create websites and pentest them 🌐.</h3>
 
 <p align="center">
   <a href="mailto:yanliangchan@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
