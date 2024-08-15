@@ -62,16 +62,16 @@
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsnitinr&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanliangchan&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnitinr&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliangchan&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
 </details>
 
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsnitinr&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yanliangchan&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
   </p>
 </details>
 
@@ -79,8 +79,8 @@
   <summary><b>📈 GitHub Streaks</b></summary>
   <br />
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnitinr&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=itsnitinr&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yanliangchan&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=yanliangchan&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
   </p>
 </details>
 
@@ -100,7 +100,7 @@
     </thead>
     <tbody>
       <tr>
-	<td><a href="https://github.com/itsnitinr/vscode-portfolio"><b>VSCode Portfolio</b></a></td>
+	<td><a href="https://github.com/Yanliangchan/vscode-portfolio"><b>VSCode Portfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/vscode-portfolio?style=flat-square"/></td>
@@ -108,7 +108,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/itsnitinr/vscode-portfolio?style=flat-square"/></td>
       </tr>
       <tr>
-	<td><a href="https://github.com/itsnitinr/driwwwle-v2"><b>Driwwwle</b></a></td>
+	<td><a href="https://github.com/Yanliangchan/driwwwle-v2"><b>Driwwwle</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/driwwwle-v2?style=flat-square"/></td>
