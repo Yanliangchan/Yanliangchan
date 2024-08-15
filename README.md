@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Banner Image](https://i.imgur.com/XcriVok.png)
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a cyber security enthusiast & full stack developer 👨🏻‍💻 from Singapore who loves to create websites and pentest them 🌐.</h3>
 
@@ -9,7 +8,7 @@
   <a href="https://twitter.com/yanliangchan" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://t.me/yan1iangchan" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=itsnitinr&color=red"</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yanliangchan&color=red"</p>
 
 ----
 
@@ -17,7 +16,6 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
