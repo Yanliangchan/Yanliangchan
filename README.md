@@ -80,42 +80,6 @@
   </p>
 </details>
 
-<details>
-  <summary><b>💼 Open Source Projects</b></summary>
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/Yanliangchan/vscode-portfolio"><b>VSCode Portfolio</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/vscode-portfolio?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/vscode-portfolio?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/itsnitinr/vscode-portfolio?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/itsnitinr/vscode-portfolio?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/Yanliangchan/driwwwle-v2"><b>Driwwwle</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/itsnitinr/driwwwle-v2?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/itsnitinr/driwwwle-v2?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/itsnitinr/driwwwle-v2?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/itsnitinr/driwwwle-v2?label=javascript&style=flat-square"/></td>
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
