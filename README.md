@@ -7,6 +7,7 @@
 
 <td width="42%" valign="top">
 <picture>
+  <br>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=yanliangchan&theme=github-dark&style=terminal&mode=light" />
   <img src="https://www.gitskins.com/api/section/portrait?username=yanliangchan&theme=github-dark&style=terminal&mode=dark" width="100%" alt="Portrait" />
 </picture>
@@ -25,8 +26,8 @@
 
 PID  PROJECT
 001  Synapse
-002  Hookline
-003  Enlisted
+002  UNMASKED
+003  TopoLogic
 004  Side Projects
 
 Turning ideas into software,
